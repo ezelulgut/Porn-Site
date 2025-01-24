@@ -1,0 +1,81 @@
+.myBg {
+    height: 100vh;
+    background: url("F:/Porn/Web/wallpaper.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.pictures {
+    height: auto;
+    background: url('F:/Porn/Web/images.jpg');
+    background-size:contain;
+    background-position: center;
+    
+}
+
+.pictures2 {
+    height: auto;
+    background: url('F:/Porn/Web/16499.jpg');
+    background-size:contain;
+    background-position: center;
+    
+}
+
+.videos {
+    height: auto;
+    background: url('F:/Porn/Web/videos.jpg');
+    background-size: contain;
+    background-position: center;
+}
+
+.videos2 {
+    height: auto;
+    background: url('F:/Porn/Web/nude-christmas-bonanza-1280x720.jpg');
+    background-size: contain;
+    background-position: center;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.title2 {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+    background-color: dimgray;
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+  }
+
+  .images {
+    height: 500px;
+  }
+
+.wideVideo{
+    height: auto;
+    justify-content: end;
+    align-items: end;
+}
+  
